@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es-ES"
@@ -116,10 +116,10 @@ analytics:
 
 # Site Footer
 footer:
-  links:
-    - label: "Instituto de Astrofísica de Canarias"
-      icon: "iac"
-      url: "https://www.iac.es/"
+#  links:
+#    - label: "Instituto de Astrofísica de Canarias"
+#      icon: "iac"
+#      url: "https://www.iac.es/"
   since: "2025"
 
 

@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Inicio"
-    url: "/"
   - title: "Sobre Cosmos"
     url: "/premio/"
   - title: "Libros"
